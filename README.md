@@ -255,8 +255,6 @@ Este proyecto está bajo Licencia Académica - ver el archivo [LICENSE.txt](LICE
 - ❌ Uso comercial sin autorización
 - ❌ Distribución sin atribución
 
-// ...existing code...
-
 ## 🤝 Contribuciones
 
 ### 📋 **Política de Contribuciones:**
