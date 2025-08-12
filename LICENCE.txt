@@ -1,0 +1,8 @@
+Copyright (c) [Año] [Tu Nombre]
+
+Se concede permiso para usar, copiar, modificar y distribuir este trabajo con fines académicos y de investigación, siempre que cualquier publicación resultante cite expresamente:
+
+- Julca Mejía, W. (2024). Sistema de recomendación basado en modelos híbridos de filtrado colaborativo para jueces de programación en línea.
+- Julca-Mejia, W., & Paucar-Curasma, H. (2023, August). A Cloud Based Recommender System for Competitive Programming Platforms with Machine and Deep Learning. In Congresso sobre Tecnologias na Educação (Ctrl+ e) (pp. 11-20). SBC.
+
+Está prohibido el uso comercial sin autorización previa por escrito.
