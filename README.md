@@ -224,21 +224,18 @@ Este framework es ideal para:
 
 **Wilson Julca Mejía**
 
-- 📧 Email: [wilson.julca@example.com]
+- 📧 Email: [wilson.julca@unmsm.edu.pe]
 - 🎓 Investigación en Machine Learning y Análisis Estadístico
-- 📊 Especialista en Comparaciones Estadísticas de Algoritmos
 
 ## 📄 Citación
 
 Si utilizas este framework en tu investigación, por favor cita:
 
 ```bibtex
-@misc{julca2024statistical,
-  title={Framework de Análisis Estadístico Comparativo para Modelos de Machine Learning},
-  author={Julca-Mejía, Wilson},
-  year={2024},
-  howpublished={\url{[URL_DEL_REPOSITORIO]}},
-  note={Accessed: [FECHA]}
+@article{julcasistema,
+  title={Sistema de recomendaci{\'o}n basado en modelos h{\'\i}bridos de filtrado colaborativo para jueces de programaci{\'o}n en l{\'\i}nea},
+  author={Julca Mej{\'\i}a, Wilson},
+  publisher={Universidad Nacional Mayor de San Marcos}
 }
 ```
 
