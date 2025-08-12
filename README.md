@@ -210,11 +210,15 @@ Este framework es ideal para:
 
 ## 📚 Referencias Metodológicas
 
-1. **Friedman, M. (1937).** The use of ranks to avoid the assumption of normality implicit in the analysis of variance. _Journal of the American Statistical Association_.
+- **Julca Mejía, W. (2024).** Sistema de recomendación basado en modelos híbridos de filtrado colaborativo para jueces de programación en línea.
 
-2. **Demšar, J. (2006).** Statistical comparisons of classifiers over multiple data sets. _Journal of Machine Learning Research_.
+- **Julca-Mejia, W., & Paucar-Curasma, H. (2023, August).** A Cloud Based Recommender System for Competitive Programming Platforms with Machine and Deep Learning. _In Congresso sobre Tecnologias na Educação (Ctrl+ e) (pp. 11-20). SBC_.
 
-3. **García, S., & Herrera, F. (2008).** An extension on "statistical comparisons of classifiers over multiple data sets" for all pairwise comparisons. _Journal of Machine Learning Research_.
+- **Friedman, M. (1937).** The use of ranks to avoid the assumption of normality implicit in the analysis of variance. _Journal of the American Statistical Association_.
+
+- **Demšar, J. (2006).** Statistical comparisons of classifiers over multiple data sets. _Journal of Machine Learning Research_.
+
+- **García, S., & Herrera, F. (2008).** An extension on "statistical comparisons of classifiers over multiple data sets" for all pairwise comparisons. _Journal of Machine Learning Research_.
 
 ## 👨‍💻 Autor
 
